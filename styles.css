@@ -8,11 +8,7 @@ h1{
     justify-content: space-around;
     padding: 10px;
 }
-hr{
-    border: none; /* quitamos el borde por defecto */
-    border-top: 2px dotted #333; /* borde superior punteado */
-    margin: 20px 0; /
-}
+
 .container{
     display: flex;
     align-items: stretch;
